@@ -1,0 +1,14 @@
+layout_spectrum: 0.5107527
+color:
+  saturation: 0.3740684
+  lightness: 0.2307368
+  brandStrength: 0.9255185
+  rhythmicContrast: 0.4524538
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+typography_spectrum: 0.3597322
+name: Peck
